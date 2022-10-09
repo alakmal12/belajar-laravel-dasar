@@ -1,0 +1,26 @@
+	1. saat kita menjalankan laravel,larael secara
+otomatis menjalankan sebuah file
+yang bernama artisan
+ artisan itu isinya adalah kode php
+ kita bisa gunakan perintah php artisan
+ untuk menjalankan perintah php artisan
+ yang berguna untuk melihat semua fitur
+ pada php artisannya.
+ jika kita jalankan kita bisa gunakan kode php
+ untuk menjalankan hal hal tertentu
+ file artisan digunakan untuk menjalankan
+ banyak hal salah satunya menjalankan aplikasi
+ laravel ketika ada di proses development
+
+ untuk menjalankan laravel kedalam mode 
+ development kita harus gunakan
+ perintah php artisan serve yg mana laravel
+ nya akan dijalankan kedalam mode development
+dan laravel tersebut akan
+dijalankan di localhost:8000/
+atau di http://127.0.0.1:8000/
+ php 
+
+2. saat menjalankan laravel kita direkomendasikan
+menggunakan git sebagai source code manajementnya
+didalam laravel juga ada gitignore
