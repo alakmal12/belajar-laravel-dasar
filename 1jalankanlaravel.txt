@@ -24,3 +24,15 @@ atau di http://127.0.0.1:8000/
 2. saat menjalankan laravel kita direkomendasikan
 menggunakan git sebagai source code manajementnya
 didalam laravel juga ada gitignore
+
+3 . laravel artisan
+saat menjalankan kode PHP laravel menjalankan sebuah file yang bernama
+artisan, artisan ini sebenernya berisi kode php yg bisa digunakan untuk berbagai
+hal
+klau bikin class,controller dan unit test usahain pakai artisan
+
+php artisan serve = menjalankan laravel dalam mode development
+
+php artisan namaperintah --help
+atas untuk melihat detail informasi  dari perintah yang terdapat pada
+file artisan, 
